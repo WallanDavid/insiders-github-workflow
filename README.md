@@ -1,6 +1,6 @@
 # 🛠️ Insiders GitHub Workflow
 
-![CI](https://github.com/seu-usuario/insiders-github-workflow/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/WallanDavid/insiders-github-workflow/actions/workflows/ci.yml/badge.svg)
 
 Este projeto demonstra como usar **GitHub Actions** para validar um script Node.js com CI automático.
 
